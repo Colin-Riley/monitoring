@@ -16,11 +16,13 @@ Now, we propose a challenge to preview some future events.
 ## 3. Tasks
 
 Using [this csv](https://github.com/Colin-Riley/monitoring/blob/main/temperature2.csv)
- with hypothetical tempeture data,and try to preview the temperatures of next month. 
+ with hypothetical tempeture data, try to come up with a method to predict the temperatures over the following month.
 
-1. Analyze the data provided and present your conclusions .
-2. Explain the model of A.I. or machine learning algorithm you used to make the tempeture predictions
- 
+Analyze the data provided and present your conclusions.
+Using any method you want, try to create predictions for the temperature in the same location over the month following the provided data.
+Explain your selected technique and thought process.
+Generate a .csv file in the same format and with the same sampling frequency as the one provided, but covering the following calendar month and containing your predictions.
+
 ## 4. Deliverables
 
 You are expected to submit a presentation with your answers and your project and be ready to present that in 30 minutes in a interview.
